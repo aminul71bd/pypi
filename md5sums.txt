@@ -1,0 +1,3 @@
+0343638adf5df52846fdbf509418ad90	upmath-2.0.0.tar.gz
+c6f5fcc815210a215cdf5ac71a78defa	upmath-2.0.0-py2.py3-none-any.whl
+81648e1779b260b7b87079e38d808c83	upmath-2.0.0-py3-none-any.whl
